@@ -9,3 +9,6 @@ Yeah , it not only deals with data whereas it can be used to create wonderful vi
 Google Data Studio turns your data into informative reports and interactive dashboards that are easy to read, easy to share, and fully customizable for your business intelligence needs. use it for free Your data is beautiful.
 
 ![image](https://user-images.githubusercontent.com/72293918/151752697-1f9afb86-6adc-478b-88df-601283e39954.png)
+                                                                                             ![image](https://user-images.githubusercontent.com/72293918/151753145-a17a11e9-0852-42ff-9068-b6566aa50eee.png)
+
+![image](https://user-images.githubusercontent.com/72293918/151753048-fcd4541f-5662-48e0-9a7d-b1ab9f751b68.png)
